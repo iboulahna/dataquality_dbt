@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# dbt
+dbt_project/target/
+dbt_project/.dbt/
+dbt_project/.pytest_cache/
+dbt_project/.mypy_cache/
+
+# Great Expectations
+great_expectations_light/.ge_store/
+great_expectations_light/uncommitted/
+
+# Logs & outputs
+*.log
+*.sqlite
+*.db
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
