@@ -32,3 +32,5 @@ great_expectations_light/uncommitted/
 # OS files
 .DS_Store
 Thumbs.db
+
+dbt-analytics-engineer-471609-98ab68eb704f.json
